@@ -71,13 +71,11 @@ First creative site taken to a finished, deployed state — heavy 3D and custom 
 Ukrainian (native) · Russian (native) · English (working proficiency)
 
 ---
-<div align="center">
 ## Personal plans on future
 > Use this domain
 [![Portfolio](https://img.shields.io/badge/Portfolio-dml--central.dev-000?style=flat&logo=vercel&logoColor=white)](https://dml-central.dev)
 
 > Deploy COS Code
-</div>
 ---
 
 <div align="center">
