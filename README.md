@@ -6,7 +6,7 @@ Remote · Ukraine
 
 [![Email](https://img.shields.io/badge/Email-demolovfennec%40gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:demolovfennec@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@volnowan-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/volnowan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dml--central.dev-000?style=flat&logo=vercel&logoColor=white)](https://dml-central.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dml--central.dev-000?style=flat&logo=vercel&logoColor=white)](https://dml-central.vercel.app)
 
 </div>
 
@@ -70,6 +70,14 @@ First creative site taken to a finished, deployed state — heavy 3D and custom 
 
 Ukrainian (native) · Russian (native) · English (working proficiency)
 
+---
+<div align="center">
+## Personal plans on future
+> Use this domain
+[![Portfolio](https://img.shields.io/badge/Portfolio-dml--central.dev-000?style=flat&logo=vercel&logoColor=white)](https://dml-central.dev)
+
+> Deploy COS Code
+</div>
 ---
 
 <div align="center">
