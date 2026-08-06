@@ -72,11 +72,13 @@ Ukrainian (native) · Russian (native) · English (working proficiency)
 
 ---
 <div align="center">
-## Personal plans on future
+  
+# Personal plans on future
 
 Use [this](dml-central.dev) domain
 
 Deploy COS Code
+
 </div>
 ---
 
